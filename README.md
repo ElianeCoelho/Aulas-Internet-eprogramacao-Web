@@ -1,2 +1,2 @@
-<h1 color='red'> Aulas Internet e Programação Web</h1>
+Aulas Internet e Programação Web
 para todas as turmas da matéria
